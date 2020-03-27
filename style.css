@@ -57,7 +57,6 @@ body {
   color: #314584;
   padding-left: 0;
   padding-right: 30px;
-
 }
 .main-menu .menu-list .nav-link:hover {
   color: #ff3946;
@@ -134,6 +133,7 @@ body {
   padding: 30px 40px;
 }
 .services-icon {
+  height: 60px;
   margin-bottom: 50px;
 }
 .services-card a:hover {
